@@ -1,7 +1,7 @@
 # Hi, I’m Albert! 👋
 About Me:
 
-I’m a Software Engineering student at TripleTen, transitioning from a career in sales into the tech industry. As i in bark in the journey to becoming a software engineer i am excited for the new skills i will gain. This has fueled me for a passion for code and to continue learning. I welcome anyone in the field willing to collaborate ,im always open to learning and any opportunity to get my foot in the door here are <br>some of the skills i have learned so far html, css, command lines , git , git hub , BEM method and javascript. 
+I’m a Software Engineering student at TripleTen, transitioning from a career in sales into the tech industry. As i in bark in the journey to becoming a software engineer i am excited for the new skills i will gain. This has fueled my passion for coding and my desire to continue learning. Im always open to learning and I welcome anyone in the field willing to collaborate, and any opportunity to get my foot in the door here are some of the skills i have learned so far html, css, command lines , git , git hub , BEM method and javascript.As I continue on this journey, I’m eager to expand my skills, collaborate with others, and grow as a software engineer. I look forward to new opportunities and the chance to contribute to the tech community. 
 
 
 ## 🌐 Socials:
